@@ -1,0 +1,26 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "data-structures",
+  "scripts": {
+    "start": "npx live-server"
+  },
+  "author": "Hack Reactor <curriculum.team@hackreactor.com>",
+  "license": "UNLICENSED",
+  "main": ".eslintrc.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belzy/hrr49-data-structures.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/belzy/hrr49-data-structures/issues"
+  },
+  "homepage": "https://github.com/belzy/hrr49-data-structures#readme",
+  "dependencies": {
+    "mocha": "^8.1.3"
+  }
+}
